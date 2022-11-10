@@ -115,5 +115,11 @@ export const _MARKETS = [
     deprecated: false,
     address: new PublicKey('B7b5rjQuqQCuGqmUBWmcCTqaL3Z1462mo4NArqty6QFR'),
     programId: new PublicKey('9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin'),
+  },
+ {
+    name: 'CATO/USDC',
+    deprecated: false,
+    address: new PublicKey('9fe1MWiKqUdwift3dEpxuRHWftG72rysCRHbxDy6i9xB'),
+    programId: new PublicKey('9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin'),
   }
 ];
